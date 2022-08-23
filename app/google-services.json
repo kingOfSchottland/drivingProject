@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582995157643",
+    "project_id": "driving-learn-project",
+    "storage_bucket": "driving-learn-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582995157643:android:12fba2c2c7e2b9e20baa8e",
+        "android_client_info": {
+          "package_name": "com.example.mydrivingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582995157643-04nkflk57t8g8bvrn7eblk5fq1b1uakh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8dv4IW4JUdnciQ5qDxSK1o9smJOlW1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582995157643-04nkflk57t8g8bvrn7eblk5fq1b1uakh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
